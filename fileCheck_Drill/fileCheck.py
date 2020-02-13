@@ -4,7 +4,7 @@ import glob
 import time
 
 # Iterate through all files in directory
-fPath = 'C:\\Users\\Miles\\Documents\\GitHub\\Advanced-Python-Projects\\fileCheck\\'
+fPath = 'C:\\Users\\Miles\\Documents\\GitHub\\Advanced-Python-Projects\\fileCheck_Drill\\files\\'
 
 dir_list = os.listdir(fPath) 
   
